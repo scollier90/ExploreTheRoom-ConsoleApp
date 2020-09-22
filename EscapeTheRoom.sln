@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Escape_The_Room", "EscapeTheRoom\Escape_The_Room.csproj", "{1F26A9E8-0F71-471F-904B-C6B7FA7C8307}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Escape_The_Room_Repo", "EscapeTheRoomRepo\Escape_The_Room_Repo.csproj", "{2D4B1EB1-20FD-4A99-B904-AF22FF0CBC0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F26A9E8-0F71-471F-904B-C6B7FA7C8307}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F26A9E8-0F71-471F-904B-C6B7FA7C8307}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F26A9E8-0F71-471F-904B-C6B7FA7C8307}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F26A9E8-0F71-471F-904B-C6B7FA7C8307}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D4B1EB1-20FD-4A99-B904-AF22FF0CBC0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D4B1EB1-20FD-4A99-B904-AF22FF0CBC0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D4B1EB1-20FD-4A99-B904-AF22FF0CBC0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D4B1EB1-20FD-4A99-B904-AF22FF0CBC0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EC1FFA4-EC53-43E8-BF44-BE5E2A6EA2DF}
+	EndGlobalSection
+EndGlobal

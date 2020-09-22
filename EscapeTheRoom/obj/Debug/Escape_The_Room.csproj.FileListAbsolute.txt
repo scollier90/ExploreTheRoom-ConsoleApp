@@ -1,0 +1,10 @@
+C:\ElevenFiftyProjects\DotNetProjects\EscapeTheRoom\EscapeTheRoom\EscapeTheRoom\obj\Debug\Escape_The_Room.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\EscapeTheRoom\EscapeTheRoom\EscapeTheRoom\bin\Debug\EscapeTheRoom.exe.config
+C:\ElevenFiftyProjects\DotNetProjects\EscapeTheRoom\EscapeTheRoom\EscapeTheRoom\bin\Debug\EscapeTheRoom.exe
+C:\ElevenFiftyProjects\DotNetProjects\EscapeTheRoom\EscapeTheRoom\EscapeTheRoom\bin\Debug\EscapeTheRoom.pdb
+C:\ElevenFiftyProjects\DotNetProjects\EscapeTheRoom\EscapeTheRoom\EscapeTheRoom\bin\Debug\EscapeTheRoomRepo.dll
+C:\ElevenFiftyProjects\DotNetProjects\EscapeTheRoom\EscapeTheRoom\EscapeTheRoom\bin\Debug\EscapeTheRoomRepo.pdb
+C:\ElevenFiftyProjects\DotNetProjects\EscapeTheRoom\EscapeTheRoom\EscapeTheRoom\obj\Debug\Escape_The_Room.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\EscapeTheRoom\EscapeTheRoom\EscapeTheRoom\obj\Debug\Escape_The_Room.csproj.CopyComplete
+C:\ElevenFiftyProjects\DotNetProjects\EscapeTheRoom\EscapeTheRoom\EscapeTheRoom\obj\Debug\EscapeTheRoom.exe
+C:\ElevenFiftyProjects\DotNetProjects\EscapeTheRoom\EscapeTheRoom\EscapeTheRoom\obj\Debug\EscapeTheRoom.pdb

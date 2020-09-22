@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\DotNetProjects\EscapeTheRoom\EscapeTheRoom\EscapeTheRoomRepo\obj\Debug\Escape_The_Room_Repo.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\EscapeTheRoom\EscapeTheRoom\EscapeTheRoomRepo\obj\Debug\Escape_The_Room_Repo.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\EscapeTheRoom\EscapeTheRoom\EscapeTheRoomRepo\bin\Debug\EscapeTheRoomRepo.dll
+C:\ElevenFiftyProjects\DotNetProjects\EscapeTheRoom\EscapeTheRoom\EscapeTheRoomRepo\bin\Debug\EscapeTheRoomRepo.pdb
+C:\ElevenFiftyProjects\DotNetProjects\EscapeTheRoom\EscapeTheRoom\EscapeTheRoomRepo\obj\Debug\EscapeTheRoomRepo.dll
+C:\ElevenFiftyProjects\DotNetProjects\EscapeTheRoom\EscapeTheRoom\EscapeTheRoomRepo\obj\Debug\EscapeTheRoomRepo.pdb
